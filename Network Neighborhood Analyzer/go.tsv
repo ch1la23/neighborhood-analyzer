@@ -1,0 +1,493 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0MFS5	At4g01037	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19251672		3702	TAIR		P
+UniProtKB	B9DFX7	PAA2	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:15772282		3702	TAIR		P
+UniProtKB	B9DHG0	PYG7	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:16679416		3702	TAIR		P
+UniProtKB	B9DHG0	PYG7	involved_in	GO:0048564	photosystem I assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR26312:SF177	3702	TreeGrafter		P
+UniProtKB	F4IW47	TKL-2	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	F4J7A7	PPD7	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	F4JGR5	PFP-BETA2	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19533038		3702	TAIR		P
+UniProtKB	F4JGR5	PFP-BETA2	involved_in	GO:0015979	photosynthesis	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR43650:SF32	3702	TreeGrafter		P
+UniProtKB	F4JHA2	RSH1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000314	IDA	PMID:26908759		3702	TAIR		P
+UniProtKB	O03042	rbcL	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O03042	rbcL	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	O03042	rbcL	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000339182	3702	UniProt		P
+UniProtKB	O22609	DEGP1	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:17351117		3702	TAIR		P
+UniProtKB	O22682	CS26	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:20179139		3702	TAIR		P
+UniProtKB	O22773	At4g02530	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:28874535		3702	TAIR		P
+UniProtKB	O22773	At4g02530	involved_in	GO:0010206	photosystem II repair	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR038862	3702	InterPro		P
+UniProtKB	O22914	CP12-1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	O23403	PPD1	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:23221595		3702	TAIR		P
+UniProtKB	O23403	PPD1	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25008325		3702	TAIR		P
+UniProtKB	O23403	PPD1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	O23404	PPDK	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O48722	HO2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O48741	PORC	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O48782	HO1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O49292	PPD4	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	O49344	PSBP2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	O49347	PSBY	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009388	3702	InterPro		P
+UniProtKB	O49347	PSBY	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O49668	PAM68	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:20923938		3702	TAIR		P
+UniProtKB	O49668	PAM68	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O64750	PSA2	involved_in	GO:0048564	photosystem I assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR15852:SF56	3702	TreeGrafter		P
+UniProtKB	O64750	PSA2	involved_in	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25228689		3702	UniProt		P
+UniProtKB	O65502	HCF244	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:23027666		3702	TAIR		P
+UniProtKB	O65502	HCF244	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O80634	PNSL1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	O80860	FTSH2	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:22698923		3702	TAIR		P
+UniProtKB	O80860	FTSH2	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:27208291		3702	TAIR		P
+UniProtKB	O81208	OHP1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:30397023		3702	TAIR		P
+UniProtKB	O81208	OHP1	involved_in	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:29438089		3702	UniProt		P
+UniProtKB	O81208	OHP1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	O81845	PUMP1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:17148605		3702	TAIR		P
+UniProtKB	O82261	DEGP2	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000314	IDA	PMID:11717304		3702	TAIR		P
+UniProtKB	O82660	HCF136	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P04778	LHCB1.3	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	P04778	LHCB1.3	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF186	3702	TreeGrafter		P
+UniProtKB	P04778	LHCB1.3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P0CC32	ndhB1	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060644	3702	UniProt		P
+UniProtKB	P0CC33	ndhB2	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060644	3702	UniProt		P
+UniProtKB	P0CJ48	LHCB1.1	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	P0CJ48	LHCB1.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF186	3702	TreeGrafter		P
+UniProtKB	P0CJ48	LHCB1.1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P10795	RBCS-1A	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:22223809		3702	TAIR		P
+UniProtKB	P10795	RBCS-1A	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P10795	RBCS-1A	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P10795	RBCS-1A	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR001516327	3702	UniProt		P
+UniProtKB	P10796	RBCS-1B	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P10796	RBCS-1B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P10796	RBCS-1B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR001516327	3702	UniProt		P
+UniProtKB	P10797	RBCS-2B	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P10797	RBCS-2B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P10797	RBCS-2B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR001516327	3702	UniProt		P
+UniProtKB	P10798	RBCS-3B	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P10798	RBCS-3B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P10798	RBCS-3B	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR001516327	3702	UniProt		P
+UniProtKB	P14713	PHYB	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19363093		3702	TAIR		P
+UniProtKB	P16127	CHLI1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P16972	FD2	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:18494733		3702	TAIR		P
+UniProtKB	P21218	PORB	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P23321	PSBO1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:15722336		3702	TAIR		P
+UniProtKB	P23321	PSBO1	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000314	IDA	PMID:7948862		3702	TAIR		P
+UniProtKB	P23321	PSBO1	involved_in	GO:0010207	photosystem II assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002628	3702	InterPro		P
+UniProtKB	P23321	PSBO1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P25697	At1g32060	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P25697	At1g32060	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P25697	At1g32060	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P25851	CFBP1	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:20081115		3702	TAIR		P
+UniProtKB	P25851	CFBP1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:15448173		3702	TAIR		P
+UniProtKB	P25851	CFBP1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P25851	CFBP1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P25856	GAPA1	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000303	NAS	PMID:15533878		3702	TAIR		P
+UniProtKB	P25856	GAPA1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P25856	GAPA1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P25857	GAPB	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000303	NAS	PMID:15533878		3702	TAIR		P
+UniProtKB	P25857	GAPB	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P25857	GAPB	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P26289	ndhE	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000112713	3702	UniProt		P
+UniProtKB	P27140	BCA1	involved_in	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:18434607		3702	UniProt		P
+UniProtKB	P27202	PSBR	acts_upstream_of_or_within	GO:0010270	photosystem II oxygen evolving complex assembly	ECO:0000270	IEP	PMID:16282331		3702	TAIR		P
+UniProtKB	P27202	PSBR	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006814	3702	InterPro		P
+UniProtKB	P27202	PSBR	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P27521	LHCA4	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	P27521	LHCA4	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF4	3702	TreeGrafter		P
+UniProtKB	P27521	LHCA4	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:21806943		3702	UniProt		P
+UniProtKB	P27521	LHCA4	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P46283	At3g55800	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000250	ISS	PMID:7811976		3702	TAIR		P
+UniProtKB	P46283	At3g55800	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P46283	At3g55800	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P49107	PSAN	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008796	3702	InterPro		P
+UniProtKB	P49107	PSAN	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P49599	PPH1	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:20126264		3702	TAIR		P
+UniProtKB	P50318	At1g56190	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	P50318	At1g56190	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	P56751	ndhC	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000304	TAS	PMID:8768377		3702	TAIR		P
+UniProtKB	P56751	ndhC	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000051415	3702	UniProt		P
+UniProtKB	P56753	ndhH	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101937	3702	UniProt		P
+UniProtKB	P56754	ndhJ	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101911	3702	UniProt		P
+UniProtKB	P56755	ndhI	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000304	TAS	PMID:8768377		3702	TAIR		P
+UniProtKB	P56755	ndhI	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101875	3702	UniProt		P
+UniProtKB	P56756	ndhK	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101894	3702	UniProt		P
+UniProtKB	P56761	psbD	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000484|InterPro:IPR036854	3702	InterPro		P
+UniProtKB	P56761	psbD	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005868	3702	InterPro		P
+UniProtKB	P56761	psbD	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56761	psbD	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000076254	3702	UniProt		P
+UniProtKB	P56761	psbD	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000484|InterPro:IPR005868|InterPro:IPR036854	3702	InterPro		P
+UniProtKB	P56766	psaA	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000304	TAS	PMID:10482661		3702	TAIR		P
+UniProtKB	P56766	psaA	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001280|InterPro:IPR006243	3702	InterPro		P
+UniProtKB	P56766	psaA	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56766	psaA	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000090052	3702	UniProt		P
+UniProtKB	P56767	psaB	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001280|InterPro:IPR006244	3702	InterPro		P
+UniProtKB	P56767	psaB	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56767	psaB	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000103151	3702	UniProt		P
+UniProtKB	P56768	psaI	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001302|InterPro:IPR036357	3702	InterPro		P
+UniProtKB	P56768	psaI	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56768	psaI	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060612	3702	UniProt		P
+UniProtKB	P56769	psaJ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002615|InterPro:IPR036062	3702	InterPro		P
+UniProtKB	P56769	psaJ	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56769	psaJ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000094072	3702	UniProt		P
+UniProtKB	P56771	petA	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000304	TAS	PMID:7923416		3702	TAIR		P
+UniProtKB	P56771	petA	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002325	3702	InterPro		P
+UniProtKB	P56771	petA	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56771	petA	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000098211	3702	UniProt		P
+UniProtKB	P56773	petB	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56773	petB	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000098239	3702	UniProt		P
+UniProtKB	P56774	petD	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005870	3702	InterPro		P
+UniProtKB	P56774	petD	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56774	petD	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000106962	3702	UniProt		P
+UniProtKB	P56775	petG	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56776	petL	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56777	psbB	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:11549768		3702	TAIR		P
+UniProtKB	P56777	psbB	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000932|InterPro:IPR036001	3702	InterPro		P
+UniProtKB	P56777	psbB	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017486	3702	InterPro		P
+UniProtKB	P56777	psbB	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017486	3702	InterPro		P
+UniProtKB	P56777	psbB	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56777	psbB	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000165267	3702	UniProt		P
+UniProtKB	P56777	psbB	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000932|InterPro:IPR036001	3702	InterPro		P
+UniProtKB	P56778	psbC	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000932|InterPro:IPR036001	3702	InterPro		P
+UniProtKB	P56778	psbC	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005869	3702	InterPro		P
+UniProtKB	P56778	psbC	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005869	3702	InterPro		P
+UniProtKB	P56778	psbC	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56778	psbC	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000165248	3702	UniProt		P
+UniProtKB	P56778	psbC	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000932|InterPro:IPR036001	3702	InterPro		P
+UniProtKB	P56779	psbE	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006217|InterPro:IPR037025	3702	InterPro		P
+UniProtKB	P56779	psbE	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006217|InterPro:IPR013081|InterPro:IPR013082|InterPro:IPR037025	3702	InterPro		P
+UniProtKB	P56779	psbE	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56779	psbE	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000098261	3702	UniProt		P
+UniProtKB	P56779	psbE	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006217|InterPro:IPR037025	3702	InterPro		P
+UniProtKB	P56780	psbH	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001056|InterPro:IPR036863	3702	InterPro		P
+UniProtKB	P56780	psbH	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56780	psbH	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000335175	3702	UniProt		P
+UniProtKB	P56781	psbJ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002682|InterPro:IPR037267	3702	InterPro		P
+UniProtKB	P56781	psbJ	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56781	psbJ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000068706	3702	UniProt		P
+UniProtKB	P56782	psbK	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003687|InterPro:IPR037270	3702	InterPro		P
+UniProtKB	P56782	psbK	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56782	psbK	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000088051	3702	UniProt		P
+UniProtKB	P56788	ycf4	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000304	TAS	PMID:14645254		3702	TAIR		P
+UniProtKB	P56788	ycf4	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003359	3702	InterPro		P
+UniProtKB	P56788	ycf4	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56788	ycf4	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000060638	3702	UniProt		P
+UniProtKB	P56790	psbZ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002644|InterPro:IPR036512	3702	InterPro		P
+UniProtKB	P56790	psbZ	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P56790	psbZ	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000098274	3702	UniProt		P
+UniProtKB	P60129	psbL	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003372|InterPro:IPR037266	3702	InterPro		P
+UniProtKB	P60129	psbL	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P60129	psbL	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000068901	3702	UniProt		P
+UniProtKB	P61039	petN	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P61839	psbT	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001743|InterPro:IPR037268	3702	InterPro		P
+UniProtKB	P61839	psbT	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P61839	psbT	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000100244	3702	UniProt		P
+UniProtKB	P61843	ycf3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P61843	ycf3	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000087100	3702	UniProt		P
+UniProtKB	P61843	ycf3	involved_in	GO:0048564	photosystem I assembly	ECO:0000318	IBA	GO_REF:0000033	PANTHER:PTN001237612|UniProtKB:A0A140G1R4	3702	GO_Central		P
+UniProtKB	P61843	ycf3	involved_in	GO:0048564	photosystem I assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR26312:SF87	3702	TreeGrafter		P
+UniProtKB	P62090	psaC	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000270	IEP	PMID:10792827		3702	TAIR		P
+UniProtKB	P62090	psaC	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017491	3702	InterPro		P
+UniProtKB	P62090	psaC	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017491	3702	InterPro		P
+UniProtKB	P62090	psaC	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P62090	psaC	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101736	3702	UniProt		P
+UniProtKB	P62090	psaC	involved_in	GO:0015979	photosynthesis	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR24960:SF88	3702	TreeGrafter		P
+UniProtKB	P62095	psbF	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006241	3702	InterPro		P
+UniProtKB	P62095	psbF	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006241|InterPro:IPR013081	3702	InterPro		P
+UniProtKB	P62095	psbF	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P62095	psbF	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000098267	3702	UniProt		P
+UniProtKB	P62095	psbF	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR006216|InterPro:IPR006241	3702	InterPro		P
+UniProtKB	P62100	psbI	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003686|InterPro:IPR037271	3702	InterPro		P
+UniProtKB	P62100	psbI	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P62100	psbI	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000101751	3702	UniProt		P
+UniProtKB	P62109	psbM	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007826	3702	InterPro		P
+UniProtKB	P62109	psbM	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P62109	psbM	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000087090	3702	UniProt		P
+UniProtKB	P62109	psbM	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR007826|InterPro:IPR037269	3702	InterPro		P
+UniProtKB	P62113	psbN	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003398	3702	InterPro		P
+UniProtKB	P82538	PPL1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	P83755	psbA	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000484|InterPro:IPR036854	3702	InterPro		P
+UniProtKB	P83755	psbA	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	P83755	psbA	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000352928	3702	UniProt		P
+UniProtKB	P83755	psbA	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000484|InterPro:IPR036854	3702	InterPro		P
+UniProtKB	P93735	ELIP1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q01667	LHCA1	acts_upstream_of_or_within	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000315	IMP	PMID:16098971		3702	TAIR		P
+UniProtKB	Q01667	LHCA1	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q01667	LHCA1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF89	3702	TreeGrafter		P
+UniProtKB	Q01667	LHCA1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:21806943		3702	UniProt		P
+UniProtKB	Q01667	LHCA1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q01908	ATPC1	acts_upstream_of_or_within	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000315	IMP	PMID:14576160		3702	TAIR		P
+UniProtKB	Q07473	LHCB4.1	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q07473	LHCB4.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF6	3702	TreeGrafter		P
+UniProtKB	Q07473	LHCB4.1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q0WRJ7	FKBP20-2	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:16894144		3702	TAIR		P
+UniProtKB	Q0WUA3	ABC4	acts_upstream_of_or_within	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000315	IMP	PMID:15686525		3702	TAIR		P
+UniProtKB	Q2V4B2	PQL3	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:20430763		3702	TAIR		P
+UniProtKB	Q2V4B2	PQL3	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR33399:SF6	3702	TreeGrafter		P
+UniProtKB	Q2V4B2	PQL3	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008797	3702	InterPro		P
+UniProtKB	Q37165	ndhA	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000304	TAS	PMID:8768377		3702	TAIR		P
+UniProtKB	Q37165	ndhA	involved_in	GO:0019684	photosynthesis, light reaction	ECO:0000256	IEA	GO_REF:0000104	UniRule:UR000116663	3702	UniProt		P
+UniProtKB	Q38929	IPP1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q39101	FER1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000316	IGI	PMID:18826427	AGI_LocusCode:AT2g40300|AGI_LocusCode:AT3g56090	3702	TAIR		P
+UniProtKB	Q39102	FTSH1	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000304	TAS	PMID:16040665		3702	TAIR		P
+UniProtKB	Q39194	PSBW	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR009806	3702	InterPro		P
+UniProtKB	Q39194	PSBW	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q39195	PSBT	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q3KTM0	FRO7	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:18647837		3702	TAIR		P
+UniProtKB	Q41932	PSBQ2	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR33399:SF7	3702	TreeGrafter		P
+UniProtKB	Q41932	PSBQ2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008797	3702	InterPro		P
+UniProtKB	Q41932	PSBQ2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q42029	PSBP1	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000304	TAS	PMID:9039496		3702	TAIR		P
+UniProtKB	Q42029	PSBP1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	Q42029	PSBP1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q42536	PORA	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q42553	IPP2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q5GM68	PPC2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q5XF33	CHLI2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q6NKS4	LIL3.2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q84RQ7	NIFU3	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:27784767		3702	TAIR		P
+UniProtKB	Q84VW9	PPC3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8GSJ6	LQY1	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:21586683		3702	TAIR		P
+UniProtKB	Q8GSJ6	LQY1	involved_in	GO:0010206	photosystem II repair	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR15852:SF27	3702	TreeGrafter		P
+UniProtKB	Q8GVE8	PPC4	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8GYC7	PGRL1B	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR039987	3702	InterPro		P
+UniProtKB	Q8GYC7	PGRL1B	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR31032:SF1	3702	TreeGrafter		P
+UniProtKB	Q8H112	PGRL1A	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR039987	3702	InterPro		P
+UniProtKB	Q8H112	PGRL1A	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR31032:SF9	3702	TreeGrafter		P
+UniProtKB	Q8H112	PGRL1A	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:23290914		3702	UniProt		P
+UniProtKB	Q8L540	LTO1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:22209765		3702	TAIR		P
+UniProtKB	Q8L9X2	RBCX2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8LBP6	FTRA2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004207|InterPro:IPR044166	3702	InterPro		P
+UniProtKB	Q8LCA1	CURT1B	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000314	IDA	PMID:16109415		3702	TAIR		P
+UniProtKB	Q8LCQ4	LHCA6	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q8LCQ4	LHCA6	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF5	3702	TreeGrafter		P
+UniProtKB	Q8LCQ4	LHCA6	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000315	IMP	PMID:19903870		3702	UniProt		P
+UniProtKB	Q8LCQ4	LHCA6	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8RWG1	ABC1K1	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:24267661		3702	UniProt		P
+UniProtKB	Q8RWV0	TKL-1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	Q8RXS1	PNSB4	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000304	TAS	PMID:18535009		3702	TAIR		P
+UniProtKB	Q8RXS1	PNSB4	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR034570	3702	InterPro		P
+UniProtKB	Q8VY52	PPD2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	Q8VZ87	LHCB1.2	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q8VZ87	LHCB1.2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF186	3702	TreeGrafter		P
+UniProtKB	Q8VZ87	LHCB1.2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8W0Y8	PSB28	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR005610	3702	InterPro		P
+UniProtKB	Q8W0Y8	PSB28	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8W493	LFNR2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00091	3702	UniProt		P
+UniProtKB	Q8W493	LFNR2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8W4D6	HCF173	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:17435084		3702	TAIR		P
+UniProtKB	Q8W4D6	HCF173	involved_in	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:17435084		3702	UniProt		P
+UniProtKB	Q8W4D6	HCF173	involved_in	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:23027666		3702	UniProt		P
+UniProtKB	Q8W4D6	HCF173	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q8W4M5	PFP-BETA1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19533038		3702	TAIR		P
+UniProtKB	Q8W4M5	PFP-BETA1	involved_in	GO:0015979	photosynthesis	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR43650:SF1	3702	TreeGrafter		P
+UniProtKB	Q93VA3	PETJ	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q949Q5	PSAO	acts_upstream_of_or_within	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000305	IC	PMID:11801243	GO:0009522	3702	TAIR		P
+UniProtKB	Q949Q5	PSAO	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:15169790		3702	UniProt		P
+UniProtKB	Q949Q5	PSAO	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q949Y5	EGY1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:15659096		3702	TAIR		P
+UniProtKB	Q949Y5	EGY1	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:15659096		3702	TAIR		P
+UniProtKB	Q94AQ8	PNSB2	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:18785996		3702	UniProt		P
+UniProtKB	Q94AU9	RBCX1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q94AX5	PAM71	acts_upstream_of_or_within	GO:0010270	photosystem II oxygen evolving complex assembly	ECO:0000315	IMP	PMID:27020959		3702	TAIR		P
+UniProtKB	Q94B38	GPT2	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19939944		3702	TAIR		P
+UniProtKB	Q94BS2	MET1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:25587003		3702	TAIR		P
+UniProtKB	Q94BS2	MET1	involved_in	GO:0010206	photosystem II repair	ECO:0000314	IDA	PMID:25587003		3702	UniProt		P
+UniProtKB	Q94BS2	MET1	involved_in	GO:0010207	photosystem II assembly	ECO:0000314	IDA	PMID:25587003		3702	UniProt		P
+UniProtKB	Q94BS2	MET1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q94K66	ELIP2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q95695	ndhG	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000304	TAS	PMID:8768377		3702	TAIR		P
+UniProtKB	Q96251	At5g13450	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR11910:SF1	3702	TreeGrafter		P
+UniProtKB	Q96251	At5g13450	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR11910:SF1	3702	TreeGrafter		P
+UniProtKB	Q96289	ZAT10	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:18156220		3702	TAIR		P
+UniProtKB	Q9C503	NDF5	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:19122188		3702	TAIR		P
+UniProtKB	Q9C639	LHCA5	acts_upstream_of_or_within	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000316	IGI	PMID:16098971	AGI_LocusCode:AT3G47470|TAIR:gene:2082716	3702	TAIR		P
+UniProtKB	Q9C639	LHCA5	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9C639	LHCA5	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF67	3702	TreeGrafter		P
+UniProtKB	Q9C639	LHCA5	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:15563470		3702	UniProt		P
+UniProtKB	Q9C639	LHCA5	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:21806943		3702	UniProt		P
+UniProtKB	Q9C639	LHCA5	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9C9K1	LHCB7	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9C9K1	LHCB7	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF74	3702	TreeGrafter		P
+UniProtKB	Q9C9K1	LHCB7	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9C9K2	CP12-3	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	Q9C9K3	PFP-ALPHA2	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19533038		3702	TAIR		P
+UniProtKB	Q9C9K3	PFP-ALPHA2	involved_in	GO:0015979	photosynthesis	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR43650:SF23	3702	TreeGrafter		P
+UniProtKB	Q9C9L4	HO3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9CA67	CHLP	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR010253	3702	InterPro		P
+UniProtKB	Q9CA67	CHLP	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9CAC5	ndhL	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000304	TAS	PMID:18388109		3702	TAIR		P
+UniProtKB	Q9FEC1	OHP2	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:30397023		3702	TAIR		P
+UniProtKB	Q9FH02	FTSH5	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:27208291		3702	TAIR		P
+UniProtKB	Q9FHL4	FTRA1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004207|InterPro:IPR044166	3702	InterPro		P
+UniProtKB	Q9FJ82	DAPB3	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000315	IMP	PMID:17727612		3702	TAIR		P
+UniProtKB	Q9FK23	MTERF8	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000314	IDA	PMID:31685645		3702	TAIR		P
+UniProtKB	Q9FKW6	LFNR1	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:18410491		3702	TAIR		P
+UniProtKB	Q9FKW6	LFNR1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00091	3702	UniProt		P
+UniProtKB	Q9FKW6	LFNR1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9FNB0	CHLH	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9LD57	PGK1	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000315	IMP	PMID:28951489		3702	TAIR		P
+UniProtKB	Q9LD57	PGK1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	Q9LD57	PGK1	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	Q9LPW0	GAPA2	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	Q9LPW0	GAPA2	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	Q9LQC0	HO4	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9LR64	PSB27-1	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:20444695		3702	TAIR		P
+UniProtKB	Q9LR64	PSB27-1	involved_in	GO:0010206	photosystem II repair	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR025585	3702	InterPro		P
+UniProtKB	Q9LR64	PSB27-1	involved_in	GO:0010207	photosystem II assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR025585	3702	InterPro		P
+UniProtKB	Q9LR64	PSB27-1	involved_in	GO:0010207	photosystem II assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR34041:SF1	3702	TreeGrafter		P
+UniProtKB	Q9LU01	Y3IP1	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:20807881		3702	TAIR		P
+UniProtKB	Q9LU01	Y3IP1	involved_in	GO:0048564	photosystem I assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR040340	3702	InterPro		P
+UniProtKB	Q9LU10	DEGP8	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:17449806		3702	TAIR		P
+UniProtKB	Q9LU21	PNSB3	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:18785996		3702	TAIR		P
+UniProtKB	Q9LU39	GLUTRBP	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:20657737		3702	TAIR		P
+UniProtKB	Q9LXR9	PGPP1	involved_in	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:27541283		3702	UniProt		P
+UniProtKB	Q9LXX5	PPD6	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	Q9LYN2	FER3	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000316	IGI	PMID:18826427	AGI_LocusCode:At2g40300|AGI_LocusCode:At5g01600	3702	TAIR		P
+UniProtKB	Q9LZP9	CP12-2	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000304	TAS	PMID:15533878		3702	TAIR		P
+UniProtKB	Q9LZP9	CP12-2	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	Q9M024	TAAC	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:20357135		3702	TAIR		P
+UniProtKB	Q9M0V6	RFNR1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9M158	STR4	acts_upstream_of_or_within	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000315	IMP	PMID:19682289		3702	TAIR		P
+UniProtKB	Q9M2D2	VCCN1	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000315	IMP	PMID:27216227		3702	TAIR		P
+UniProtKB	Q9M3C6	PSA3	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		3702	TAIR		P
+UniProtKB	Q9M3C6	PSA3	involved_in	GO:0048564	photosystem I assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR037736	3702	InterPro		P
+UniProtKB	Q9M3C6	PSA3	involved_in	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:28522455		3702	UniProt		P
+UniProtKB	Q9M591	CRD1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008434	3702	InterPro		P
+UniProtKB	Q9M591	CRD1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9M7I9	SEP1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9MA79	CYFBP	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:18811733		3702	TAIR		P
+UniProtKB	Q9MAH0	PPC1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S714	PSAE2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003375	3702	InterPro		P
+UniProtKB	Q9S714	PSAE2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S720	PPD3	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002683	3702	InterPro		P
+UniProtKB	Q9S726	RPI3	acts_upstream_of_or_within	GO:0019253	reductive pentose-phosphate cycle	ECO:0000303	NAS	PMID:17059404		3702	TAIR		P
+UniProtKB	Q9S756	FER4	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000316	IGI	PMID:18826427	AGI_LocusCode:At3g56090|AGI_LocusCode:At5g01600	3702	TAIR		P
+UniProtKB	Q9S7H1	psaD1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003685|InterPro:IPR036579	3702	InterPro		P
+UniProtKB	Q9S7H1	psaD1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF33	3702	TreeGrafter		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:23995216		3702	UniProt		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9S7J7	LHCB2.2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S7M0	LHCB3	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19880802		3702	TAIR		P
+UniProtKB	Q9S7M0	LHCB3	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9S7M0	LHCB3	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF7	3702	TreeGrafter		P
+UniProtKB	Q9S7M0	LHCB3	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000315	IMP	PMID:26562806		3702	UniProt		P
+UniProtKB	Q9S7M0	LHCB3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S7N7	PSAG	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:11707465		3702	TAIR		P
+UniProtKB	Q9S7N7	PSAG	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:16045770		3702	TAIR		P
+UniProtKB	Q9S7N7	PSAG	acts_upstream_of_or_within	GO:0009780	photosynthetic NADP+ reduction	ECO:0000315	IMP	PMID:15953472		3702	TAIR		P
+UniProtKB	Q9S7N7	PSAG	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:11707465		3702	TAIR		P
+UniProtKB	Q9S7N7	PSAG	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000549|InterPro:IPR017494|InterPro:IPR023618	3702	InterPro		P
+UniProtKB	Q9S7N7	PSAG	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S7W1	LHCB4.3	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9S7W1	LHCB4.3	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF83	3702	TreeGrafter		P
+UniProtKB	Q9S7W1	LHCB4.3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S831	PSAE1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003375	3702	InterPro		P
+UniProtKB	Q9S831	PSAE1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S841	PSBO2	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:15722336		3702	TAIR		P
+UniProtKB	Q9S841	PSBO2	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000250	ISS	PMID:12123820		3702	TAIR		P
+UniProtKB	Q9S841	PSBO2	involved_in	GO:0010207	photosystem II assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR002628	3702	InterPro		P
+UniProtKB	Q9S841	PSBO2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9S9N6	PNSB1	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:18785996		3702	TAIR		P
+UniProtKB	Q9S9N6	PNSB1	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR044983	3702	InterPro		P
+UniProtKB	Q9S9P8	RFNR2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SA56	PSAD2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003685|InterPro:IPR036579	3702	InterPro		P
+UniProtKB	Q9SA56	PSAD2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SAU2	RPE	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	Q9SEL7	DEGP5	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:17449806		3702	TAIR		P
+UniProtKB	Q9SFB3	ATAB2	involved_in	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:25725436		3702	UniProt		P
+UniProtKB	Q9SGH4	PNSL3	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:20430763		3702	TAIR		P
+UniProtKB	Q9SGH4	PNSL3	acts_upstream_of_or_within	GO:0019684	photosynthesis, light reaction	ECO:0000304	TAS	PMID:11719511		3702	TAIR		P
+UniProtKB	Q9SGH4	PNSL3	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR33399:SF2	3702	TreeGrafter		P
+UniProtKB	Q9SGH4	PNSL3	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008797	3702	InterPro		P
+UniProtKB	Q9SHE8	PSAF	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003666|InterPro:IPR036577	3702	InterPro		P
+UniProtKB	Q9SHE8	PSAF	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF33	3702	TreeGrafter		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:23995216		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000315	IMP	PMID:25194026		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000314	IDA	PMID:23995216		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000315	IMP	PMID:25194026		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9SHR7	LHCB2.1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SJ02	SEP2	acts_upstream_of_or_within	GO:0009765	photosynthesis, light harvesting	ECO:0000250	ISS	PMID:10725357		3702	TAIR		P
+UniProtKB	Q9SJ02	SEP2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SJE1	CHLD	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SKP6	TIM	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000041	UniPathway:UPA00116	3702	UniProt		P
+UniProtKB	Q9SKP6	TIM	involved_in	GO:0019253	reductive pentose-phosphate cycle	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0113	3702	UniProt		P
+UniProtKB	Q9SKT0	THF1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000304	TAS	PMID:16155179		3702	TAIR		P
+UniProtKB	Q9SKT0	THF1	involved_in	GO:0010207	photosystem II assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017499	3702	InterPro		P
+UniProtKB	Q9SKT0	THF1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR017499	3702	InterPro		P
+UniProtKB	Q9SL05	PGR5	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:12176323		3702	TAIR		P
+UniProtKB	Q9SL05	PGR5	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:18243102		3702	TAIR		P
+UniProtKB	Q9SL05	PGR5	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR037497	3702	InterPro		P
+UniProtKB	Q9SL05	PGR5	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR35709:SF1	3702	TreeGrafter		P
+UniProtKB	Q9SNB7	LPE1	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:30844105		3702	TAIR		P
+UniProtKB	Q9SNB7	LPE1	involved_in	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:29891689		3702	UniProt		P
+UniProtKB	Q9SRY4	LPA1	acts_upstream_of_or_within	GO:0010270	photosystem II oxygen evolving complex assembly	ECO:0000315	IMP	PMID:16531500		3702	TAIR		P
+UniProtKB	Q9SRY4	LPA1	involved_in	GO:0010270	photosystem II oxygen evolving complex assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR35498:SF4	3702	TreeGrafter		P
+UniProtKB	Q9SSA5	CYP38	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:17909185		3702	TAIR		P
+UniProtKB	Q9SSS9	ATPD	acts_upstream_of_or_within	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0000315	IMP	PMID:12970486		3702	TAIR		P
+UniProtKB	Q9SSS9	ATPD	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000315	IMP	PMID:12970486		3702	TAIR		P
+UniProtKB	Q9SSS9	ATPD	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:12970486		3702	TAIR		P
+UniProtKB	Q9SSS9	ATPD	involved_in	GO:0009772	photosynthetic electron transport in photosystem II	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR11910:SF1	3702	TreeGrafter		P
+UniProtKB	Q9SSS9	ATPD	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR11910:SF1	3702	TreeGrafter		P
+UniProtKB	Q9SSS9	ATPD	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SUI4	PSAL	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR003757|InterPro:IPR036592	3702	InterPro		P
+UniProtKB	Q9SUI4	PSAL	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SUI5	PSAK	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR000549|InterPro:IPR023618|InterPro:IPR035982	3702	InterPro		P
+UniProtKB	Q9SUI5	PSAK	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SUI6	PSAH2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004928	3702	InterPro		P
+UniProtKB	Q9SUI6	PSAH2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SUI7	PSAH1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR004928	3702	InterPro		P
+UniProtKB	Q9SUI7	PSAH1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SVV6	TPK3	NOT|acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:31053658		3702	UniProt		P
+UniProtKB	Q9SY97	LHCA3	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9SY97	LHCA3	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF14	3702	TreeGrafter		P
+UniProtKB	Q9SY97	LHCA3	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:21806943		3702	UniProt		P
+UniProtKB	Q9SY97	LHCA3	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SYH1	RSH3	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000314	IDA	PMID:26908759		3702	TAIR		P
+UniProtKB	Q9SYP2	PFP-ALPHA1	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:19533038		3702	TAIR		P
+UniProtKB	Q9SYP2	PFP-ALPHA1	involved_in	GO:0015979	photosynthesis	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR43650:SF17	3702	TreeGrafter		P
+UniProtKB	Q9SYW8	LHCA2	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9SYW8	LHCA2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF80	3702	TreeGrafter		P
+UniProtKB	Q9SYW8	LHCA2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:21806943		3702	UniProt		P
+UniProtKB	Q9SYW8	LHCA2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SYX1	LIL3.1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9SZC9	PAA1	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:15772282		3702	TAIR		P
+UniProtKB	Q9SZC9	PAA1	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:12782727		3702	UniProt		P
+UniProtKB	Q9T0A4	ndhS	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR021659	3702	InterPro		P
+UniProtKB	Q9T0A4	ndhS	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:24225949		3702	UniProt		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF143	3702	TreeGrafter		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:23995216		3702	UniProt		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0009769	photosynthesis, light harvesting in photosystem II	ECO:0000314	IDA	PMID:26392145		3702	UniProt		P
+UniProtKB	Q9XF87	LHCB2.4	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9XF88	LHCB4.2	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9XF88	LHCB4.2	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF71	3702	TreeGrafter		P
+UniProtKB	Q9XF88	LHCB4.2	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9XF89	LHCB5	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:25605904		3702	TAIR		P
+UniProtKB	Q9XF89	LHCB5	acts_upstream_of_or_within	GO:0015979	photosynthesis	ECO:0000315	IMP	PMID:18381925		3702	TAIR		P
+UniProtKB	Q9XF89	LHCB5	involved_in	GO:0009765	photosynthesis, light harvesting	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR001344	3702	InterPro		P
+UniProtKB	Q9XF89	LHCB5	involved_in	GO:0009768	photosynthesis, light harvesting in photosystem I	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR21649:SF16	3702	TreeGrafter		P
+UniProtKB	Q9XF89	LHCB5	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9XF91	PSBS	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9XFT3	PSBQ1	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR33399:SF3	3702	TreeGrafter		P
+UniProtKB	Q9XFT3	PSBQ1	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008797	3702	InterPro		P
+UniProtKB	Q9XFT3	PSBQ1	involved_in	GO:0015979	photosynthesis	ECO:0007322	IEA	GO_REF:0000043	UniProtKB-KW:KW-0602	3702	UniProt		P
+UniProtKB	Q9XI73	PNSL2	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000315	IMP	PMID:20430763		3702	TAIR		P
+UniProtKB	Q9XI73	PNSL2	involved_in	GO:0009767	photosynthetic electron transport chain	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR33399:SF5	3702	TreeGrafter		P
+UniProtKB	Q9XI73	PNSL2	involved_in	GO:0015979	photosynthesis	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR008797	3702	InterPro		P
+UniProtKB	Q9XIL5	OTP51	acts_upstream_of_or_within	GO:0048564	photosystem I assembly	ECO:0000315	IMP	PMID:18557832		3702	TAIR		P
+UniProtKB	Q9XIL5	OTP51	involved_in	GO:0048564	photosystem I assembly	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6ZHJ5|RAP2022-09-01:Os02t0702000-01	3702	EnsemblPlants		P
+UniProtKB	Q9XIL5	OTP51	involved_in	GO:0048564	photosystem I assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR47539:SF1	3702	TreeGrafter		P
+UniProtKB	Q9ZNX9	SIGE	involved_in	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:14976253		3702	UniProt		P
+UniProtKB	Q9ZR03	petC	acts_upstream_of_or_within	GO:0009767	photosynthetic electron transport chain	ECO:0000304	TAS	PMID:12040099		3702	TAIR		P
+UniProtKB	Q9ZVE7	CRR3	acts_upstream_of_or_within	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000304	TAS	PMID:17041026		3702	TAIR		P
+UniProtKB	Q9ZVE7	CRR3	involved_in	GO:0009773	photosynthetic electron transport in photosystem I	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR038931	3702	InterPro		P
+UniProtKB	Q9ZVL6	At1g54780	acts_upstream_of_or_within	GO:0010206	photosystem II repair	ECO:0000315	IMP	PMID:17576201		3702	TAIR		P
+UniProtKB	Q9ZVZ9	PSB27-2	acts_upstream_of_or_within	GO:0010207	photosystem II assembly	ECO:0000315	IMP	PMID:20444695		3702	TAIR		P
+UniProtKB	Q9ZVZ9	PSB27-2	involved_in	GO:0010206	photosystem II repair	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR025585	3702	InterPro		P
+UniProtKB	Q9ZVZ9	PSB27-2	involved_in	GO:0010207	photosystem II assembly	ECO:0000256	IEA	GO_REF:0000002	InterPro:IPR025585	3702	InterPro		P
+UniProtKB	Q9ZVZ9	PSB27-2	involved_in	GO:0010207	photosystem II assembly	ECO:0007826	IEA	GO_REF:0000118	PANTHER:PTHR34041:SF3	3702	TreeGrafter		P
